@@ -27,5 +27,4 @@ public class HousingTypesController {
 		return housingTypeService.getAll();
 	}
 	
-
 }
